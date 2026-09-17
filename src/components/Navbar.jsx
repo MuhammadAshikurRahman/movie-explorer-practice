@@ -1,0 +1,2 @@
+function Navbar(){return <nav className="navbar"><a className="brand" href="#top">🎬 MovieExplorer</a><div className="nav-links"><a href="#top">Home</a><a href="#movies">Movies</a></div><a className="nav-button" href="#movies">Explore Movies</a></nav>}
+export default Navbar;

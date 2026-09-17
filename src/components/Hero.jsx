@@ -1,0 +1,2 @@
+function Hero({onExplore}){return <section id="top" className="hero"><div className="hero-content"><p className="eyebrow">YOUR NEXT WATCH STARTS HERE</p><h1>Discover Movies & Shows</h1><p>Explore shows from around the world, search for your favorites, and view detailed information in one place.</p><button className="hero-button" onClick={onExplore}>Explore Now</button></div></section>}
+export default Hero;
